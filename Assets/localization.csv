@@ -1,0 +1,409 @@
+Key,Description,Standard,CN
+SETTEXT.Flowchart.217,,o' clock,o' clock
+SETTEXT.Flowchart.221,,8,8
+SAY.Flowchart.2.You,,Today is Mid-Autumn Festival.,今天是中秋节。
+SAY.Flowchart.3.You,,But I still have neither mooncakes in my fridge nor friends to watch the moon together.,我还没买月饼。也没有朋友可以一起赏月。
+SAY.Flowchart.4.You,,"Maybe I should look up my contacts to find someone to buy some together, and have  a HUUUGE party at night.",也许我应该找个朋友一起庆祝一下。
+SAY.Flowchart.5.You,,"Anyway, looking for people does not mean I will actually call them. It is the safest thing to do.",也没事，我就是看看有没有这样的朋友。也不一定要打电话过去。
+SAY.Flowchart.60.You,,"Remember, there should be no phone calls after 22 at night, or my roommate may complain about the noise.",晚上十点以后就不能打电话了，不然室友又会抱怨我很吵。
+SETTEXT.Flowchart.788,,22,22
+MENU.Flowchart.10,,Mom and Dad,爸妈
+MENU.Flowchart.11,,Big Bear,大熊
+MENU.Flowchart.13,,DJ,DJ
+MENU.Flowchart.14,,Liu Yifei,刘亦菲
+MENU.Flowchart.15,,Sakura,Sakura
+MENU.Flowchart.16,,W,W
+SAY.Flowchart.18.You,,"Oh mom, oh dad! ",啊，爸妈！！
+SAY.Flowchart.19.You,,"I should have been staying with you at home, to spend this cute little 3-day holiday.",我本该在家和你们一起过节，
+SAY.Flowchart.20.You,,"But now in reality, I am here alone in a foreign country, lying in bed, being afraid to call you and complain my lonelyness.",现在却要在异国独自一人。
+SAY.Flowchart.21.You,,"Also, mom and dad cannot accompany me to buy mooncakes, since we are in different countries.",爸妈也不能陪我去买月饼。
+SAY.Flowchart.22.You,,It is already late at night back home. Maybe I should not call them. They may get worried.,家里现在已经很晚了。可能我不应该给他们打电话，他们可能会担心。
+SAY.Flowchart.225.You,,"Or Maybe I should call them. China now is celebrating their Mid-Autumn Festival eve, a festival for family to union.",或者我应该打？国内现在在中秋节小长假，中秋节是家人团聚的日子。
+SAY.Flowchart.226.You,,Mom and Dad should be happy to receive my call,爸妈接到我的电话应该会挺开心的，
+SAY.Flowchart.227.You,,···If I manage to hide my loneliness.,……如果我能忍住不跟他们抱怨我有多无聊的话。
+SAY.Flowchart.228.You,,"well,",呃，
+MENU.Flowchart.229,,call them,打电话
+MENU.Flowchart.230,,I need to look at other contacts first,我得再看看别的人
+SAY.Flowchart.233.You,,Should I call Mon and Dad? ,我应该给爸妈打电话吗？
+MENU.Flowchart.234,,Yes,是
+MENU.Flowchart.235,,I need to look at other contacts first,我得再看看别的人
+SAY.Flowchart.39.You,,'Big Bear' is my cousin. ,大熊是我的表姐。
+SAY.Flowchart.40.You,,I call her bear because her nickname sounds like 'bear' in Chinese——'Xiong'. ,我叫她大熊是因为她的小名用方言说就是熊。
+SAY.Flowchart.41.You,,And she calls me 'Big Deer' for the same reason. ,她叫我鹿子。原因一样。
+SAY.Flowchart.42.You,,We sound like sisters living in a zoo.,听起来像动物园姐妹似的。
+SAY.Flowchart.57.You,,"When she was studying for her graduate degree in England last year, she turned to me very often when she is bored.",去年她在英国读研的时候，无聊的时候一直给我发信息。
+SAY.Flowchart.58.You,,"And now, it should be my turn.",现在该轮到我了。
+SAY.Flowchart.59.You,,"But now that she is back in China, maybe she is spending time with her family, and has  no spare time to care about me.",不过她现在应该和家人在一起，没什么时间在意我吧。
+SAY.Flowchart.64.You,,I think I should think more carefully.,我得再仔细想想。
+SAY.Flowchart.241.You,,"My aunt used to say,",我舅妈以前讲过，
+SAY.Flowchart.334.Aunt,,"Haha, I believe your friendship will not last long without bear's effort. ",如果不是我表姐一直在主动的话，我们根本没有可能成为朋友。
+SAY.Flowchart.335.You,,I'm not complainging about her. I know what she was saying.,不是我抱怨，我知道她说得对。
+SAY.Flowchart.336.You,,"I am not good at keeping friendship, because I'm afraid of stuff like sending messages.",我不是很擅长交朋友，而且我还有发短信恐惧症，就是想不到有什么可聊的。
+SAY.Flowchart.337.You,,"I just can't think of anything to say. Unlike me, bear is good at talking to people.",大熊和我不一样，她很会聊天。
+SAY.Flowchart.338.You,,"I can take this chance to change my self, or not.",也许这次也是一个自我锻炼的机会？
+MENU.Flowchart.242,,call her,打电话
+MENU.Flowchart.243,,I need to look at other contacts first,我得再看看别的人
+SAY.Flowchart.246.You,,Should I call Big Bear? ,我应该给大熊打电话吗？
+MENU.Flowchart.247,,Yes,是
+MENU.Flowchart.248,,I need to look at other contacts first,我得再看看别的人
+SETTEXT.Flowchart.46,,{$time},{$time}
+SETTEXT.Flowchart.172,,{$time},{$time}
+SETTEXT.Flowchart.621,,{$time},{$time}
+SETTEXT.Flowchart.622,,o' clock,o' clock
+SAY.Flowchart.623.,,……,……
+SAY.Flowchart.249.You,,"Hi mom, are you ok to talk now?",妈，现在有空聊聊吗？
+SAY.Flowchart.618.Mom,,"Of course. We are at your grandmothers', and I'm preparing for lunch.",有的。我们在乡下你奶奶家，我在做午饭。
+SAY.Flowchart.626.Mom,,Did you eat?,你吃了吗？
+MENU.Flowchart.628,,"Yeah, I had beef stew",吃了，吃了炖牛肉
+MENU.Flowchart.629,,"Yeah, instant noodle.",吃了，吃了方便面
+SETTEXT.Flowchart.413,,{$time},{$time}
+SETTEXT.Flowchart.414,,o' clock,o' clock
+SAY.Flowchart.382.,,……,……
+SAY.Flowchart.383.Bear,,"Hey sister, see who it is!",嘿姐妹！
+SAY.Flowchart.384.Bear,,Is the sun coming from the West today? ,你也会主动找我，太阳从西边出来了
+MENU.Flowchart.385,,I'm just bored.,我就是有点无聊。
+MENU.Flowchart.386,,I'm calling to wish you a happy Mid-Autumn Festival.,我打电话来问个中秋节好。
+SAY.Flowchart.75.You,,"I don't think I can call her now. It's mid-night in London, she must be asleep.",我不觉得我现在应该给她打电话。现在伦敦是半夜，她肯定在睡觉。
+SAY.Flowchart.472.You,,"DJ, my best friend since kindergarten.",DJ，我从幼儿园开始最好的朋友。
+SAY.Flowchart.76.You,,"'DJ' is not her job, but the capitalization of her real name.",叫她DJ不是因为她做这个工作。只是因为她的名字缩写。
+SAY.Flowchart.77.You,,She is now in her graduate school in England. ,她现在在英国读研，我们之间一直有时差。
+SAY.Flowchart.78.You,,"Though there's jet lag between us, we still talk every day on wechat by leaving messages to each other. ",但我们还是每天在微信上互相留言。
+SAY.Flowchart.79.You,,"I don't know whether she is online yet, but I can leave her a message、give her a wechat call···or not.",不知道她现在是不是在线，不过我可以留个消息，等等再打电话。
+SAY.Flowchart.258.You,,"Well, truth is, I'm a little afraid of talking to her about bad things.",呃，其实我有点担心和她抱怨坏事。
+SAY.Flowchart.265.You,,It should be really awkward if I suddenly call her and say I am feeling sad.,如果突然打电话过去说我有点无聊有点难过会挺尴尬的吧。
+SAY.Flowchart.339.You,,"And most of the time, we were just talking in one direction, because of that jet lag.",因为时差，大部分时间我们只是互相单向联系。
+SAY.Flowchart.340.You,,Time that we get together in reality is so precious (this happens 2 or 3 times a year).,一年我们大约可以见面2-3次，见面的时间可以说相当宝贵。
+SAY.Flowchart.342.You,,That's why we seldom step into the dark parts in conversation.,所以我们不怎么聊到黑暗的话题，那样有点难以招架，而且很浪费时间。
+SAY.Flowchart.343.You,,——The atmosphere among us is alway light and joyful.,我们聊天的氛围就一直很轻松愉快。
+SAY.Flowchart.341.You,,"Sometimes I wonder WHAT is friendship at all, and then quickly blame myself for wonderging about that.",有的时候我会突然怀疑我和她之间的友谊到底算不算回事。但接下来我会立刻责备自己不应该这样去想。
+SAY.Flowchart.470.You,,"But whatever. I can call her, it's a good choice.",不过不论怎么说，给她打电话还是很安全的。
+MENU.Flowchart.259,,call her,打电话
+MENU.Flowchart.260,,I need to look at other contacts first,我再看看别的人
+SAY.Flowchart.262.You,,Should I call DJ? ,我应该给她打电话妈？
+MENU.Flowchart.263,,Yes,是
+MENU.Flowchart.264,,I need to look at other contacts first,我再看看别的人
+SETTEXT.Flowchart.477,,{$time},{$time}
+SETTEXT.Flowchart.478,,o' clock,o' clock
+SAY.Flowchart.479.,,……,……
+SAY.Flowchart.251.D.J.,,Happy Mid-Autumn Festival sister! ,姐妹中秋节快乐！！
+SAY.Flowchart.483.D.J.,,"I had planned to call you earlier, but there was a whole bunch of homework to do.",我本来想早点给你发消息的，结果有一堆作业，现在才搞好。
+SAY.Flowchart.484.You,,"Don't worry, there are still 5 hours before the day ends.",没事。中秋节介绍还有五小时。
+SAY.Flowchart.485.D.J.,,It already ends on my side. How‘s everything going today?,可我这里已经结束了哈哈哈哈。你今天过得怎么样？
+SAY.Flowchart.486.You,,Great if lying in bed all day can be called a great,如果整天昏昏欲睡算是过得不错的话……
+.,,,
+SAY.Flowchart.487.D.J.,,Did you manage to buy mooncakes?,那你买到月饼了吗？
+SAY.Flowchart.488.You,,I didn't even got to Chinatown. ,我连中国城都懒得去。
+SAY.Flowchart.489.D.J.,,"Oh come on, it's an important festival. You should have a big dinner today. ",好歹是个节，怎么说也庆祝一下吧。
+SAY.Flowchart.490.You,,Right. I may feed myself beef stew today.,也是。那我今天煮炖牛肉啦。
+SAY.Flowchart.492.D.J.,,"No matter how far we are from each other, ",不论我们相隔多远，
+SAY.Flowchart.493.D.J.,,"at least we are looking at the same moon, right?",总还是看着同一个月亮，你说是吧。
+SAY.Flowchart.494.You,,Hey but it's still daytime on my side.,我才发现我刚想说，我们这边还是大白天呢哈哈哈哈
+SAY.Flowchart.496.D.J.,,"Don't worry. Say, the moon is always brighter on the day after Mid-Autumn Festival.",没事，十五的月亮十六圆，
+SAY.Flowchart.497.D.J.,,We can watch the moon tomorrow.,可以明天再看（？
+SAY.Flowchart.498.You,,"Wait, is there any difference?",等等，这和我们一个在白天一个在晚上有关吗？
+SAY.Flowchart.499.D.J.,,No! ,哈哈哈哈哈好像没关。
+SAY.Flowchart.510.D.J.,,So I went to the detective movie···,说来我昨天去电影院……
+SETTEXT.Flowchart.513,,{$time},{$time}
+SETTEXT.Flowchart.514,,o' clock,o' clock
+SAY.Flowchart.515.D.J.,,"Wait, is it THAT late?",等等，都这么晚了？？
+SAY.Flowchart.516.D.J.,,I have to go to sleep.,我得睡了。
+SAY.Flowchart.517.You,,Good night sister. I'll go and cook beef stew.,晚安姐妹，我去煮饭了。
+SAY.Flowchart.518.D.J.,,Good evening.,‘傍晚’安。
+SAY.Flowchart.96.You,,"Liu Yifei? Nono, not that famous Chinese actress, don't be dreamy.",刘亦菲？不，别做梦了，不是那个著名演员。
+SAY.Flowchart.163.You,,I marked him as Liu only because Liu is his favorite actress.,我给他打备注叫刘亦菲只是因为刘亦菲是他最喜欢的明星，
+SAY.Flowchart.164.You,,···and his wife-in-dream.,还有梦中情人（扑哧
+SAY.Flowchart.281.You,,He was one of my friends in college.,他是我大学同学，
+SAY.Flowchart.282.You,,"And he is also in the USA for graduate study,",现在也在美国读研究生，
+SAY.Flowchart.283.You,,"···well, west in LA.",……只不过在西边。
+SAY.Flowchart.284.You,,"After we both arrived here, almost once a week he calls me to complain about everything.",我们都到美国之后，他经常打电话给我抱怨身边的一切。我一直都是一个好听众，世界上哪有我这么擅长聆听的人啊。
+SAY.Flowchart.285.You,,He may be a good listener too.,现在到了检验他是不是好听众的时候了。
+SAY.Flowchart.273.You,,"But honestly, other friends were always asking me whether we are dating or not, which made me feel embarrased. ",说实话，我有的时候也会觉得非常讨厌，因为其他朋友总是开我们的玩笑，让我很尴尬。
+SAY.Flowchart.286.You,,So I seldom (or never) call or send messages to him initiatively.,所以我几乎不怎么主动联系他，说来惭愧。
+SAY.Flowchart.287.You,,"I hate it that other people are trying to control me with their words,",我讨厌自己被别人的话语掌控的感觉，
+SAY.Flowchart.288.You,,but I can't say I care nothing about other people's opinions towards me.,但又无法完全不去在意别人的看法。
+SAY.Flowchart.289.You,,"To call him or not to call, that's a question.",打电话还是不打，这是一个问题。
+MENU.Flowchart.274,,call him,打电话
+MENU.Flowchart.275,,I need to look at other contacts first,我得再看看别的人
+SAY.Flowchart.278.You,,Should I call Liu Yifei? ,我应该给刘亦菲打电话吗？
+MENU.Flowchart.279,,Yes,是
+MENU.Flowchart.280,,I need to look at other contacts first,我得再看看别的人
+SETTEXT.Flowchart.575,,{$time},{$time}
+SETTEXT.Flowchart.576,,o' clock,o' clock
+SAY.Flowchart.577.,,……,……
+SAY.Flowchart.583.Liu Yifei,,I'm so bored!!,我也太无聊了吧！！！
+SAY.Flowchart.584.You,,"What are you doing, are you having dinner?",你在做啥，在吃饭吗？
+SAY.Flowchart.585.Liu Yifei,,"No, just finished.",没有，我刚吃完。
+SAY.Flowchart.586.*voice*,,"'Who are you talking to, your girlfriend?'",“和谁说话呢，女朋友吗？”
+SAY.Flowchart.587.Liu Yifei,,"'Yeah, it's Aragaki Yui'",“是啊，就和新垣结衣。”
+SAY.Flowchart.588.You,,"Wait, so what about Liu Yifei? Who do you like the best?",等等，怎么又新垣结衣了，刘亦菲怎么办？
+SAY.Flowchart.589.Liu Yifei,,"Arhh, my roommate's so annoying.",啊啊啊啊我这室友太烦人了吧，这也管。
+SAY.Flowchart.590.Liu Yifei,,None of them is the perfect my-type. So I can't tell who's better.,其实她俩都不完全是我的理想型，所以也没有谁好谁坏。
+SAY.Flowchart.591.You,,(How dare you),（你真好意思）
+SAY.Flowchart.592.You,,Did you see that photo? Some of our college classmates are having a party because they are all at CMU.,你看了照片了吗？我们有几个大学同学在CMU那边开中秋聚会呢。
+SAY.Flowchart.593.Liu Yifei,,"No, send it to me.",没有啊，你发给我。
+SAY.Flowchart.594.Liu Yifei,,···Oh,……呃
+SAY.Flowchart.595.Liu Yifei,,Oh no. I'm feeling envious.,呃，我好嫉妒。
+SAY.Flowchart.596.Liu Yifei,,Why do I have no friends near me?  ,为什么我都没有朋友啊？
+SAY.Flowchart.597.You,,I don't either.,我也没有。
+SAY.Flowchart.605.Liu Yifei,,Shame for us.,太可怜了吧我们。
+SAY.Flowchart.600.You,,Shame for us.,太可怜了吧我们。
+SAY.Flowchart.601.Liu Yifei,,A small group of friends. So cute.,可以一起聚会的小团体，真的好好啊。
+SAY.Flowchart.602.You,,Why are they easily owning things that I will never manage to get?,为什么他们总能轻易得到我们求也求不来的东西？
+SAY.Flowchart.603.Liu Yifei,,Can anything good happen to us?,“美好的事情可不可以发生在我身上？”
+SAY.Flowchart.604.You,,Nope.,不能。
+SAY.Flowchart.607.Liu Yifei,,I am starting to feel sorry for us.,我现在真的开始觉得咱俩很可怜了。
+SAY.Flowchart.606.You,,Me too.,谁不是呢。
+SAY.Flowchart.598.Liu Yifei,,Can you come to LA? It's Saturday tomorrow! ,不然你来LA吧？明天星期六欸。
+SAY.Flowchart.608.Liu Yifei,,"You can live in Hollywood, and I'll go and find you.",你可以住好莱坞那边，然后我白天就过去找你。
+SAY.Flowchart.609.Liu Yifei,,Possibly there are some famous directors.,那边肯定有很多名导。
+SAY.Flowchart.610.Liu Yifei,,"As soon as they see me, they'll think I am the best actor for their new film.",他们看到我，就会觉得我是他们下一部电影的最佳男主角人选。
+SAY.Flowchart.612.Liu Yifei,,"After I rise to fame, I'll still offer to act in your film for free.",等我出名了也不会忘记你的，我会第一个考虑出演你的电影。
+SAY.Flowchart.613.Liu Yifei,,Make a deal?,怎么样？这个安排不错吧？
+SAY.Flowchart.614.You,,Buy me the flight ticket first.,那你先给我出机票钱。
+SAY.Flowchart.615.Liu Yifei,,...,……
+SAY.Flowchart.664.Liu Yifei,,"Next time, next time.",下次吧，下次。
+SAY.Flowchart.581.You,,It's late. I don't think I should join them now. ,现在有点晚了，我不觉得我还能加入他们的聚会。
+SAY.Flowchart.113.You,,"Sakura, my roommate.",Sakura是我的室友。
+SAY.Flowchart.166.You,,"She named herself sakura because she likes cherry blossom, as well as Japanese anime.",她给自己起网名叫Sakura只是因为她很喜欢樱花，也喜欢日本动画片。
+SAY.Flowchart.307.You,,We are not in the same department at school. We met each other just because my dad and her dad are friends.,我们不是同一个院的，我认识她只是因为我爸和她爸认识。
+SAY.Flowchart.167.You,,"Sometimes she is an annoying roommate, because she hates to wash dishes, so the sink is always full of her used plates.",有的时候我对她会有一些抱怨，因为她总是懒得洗完，水池里经常有藏碟。
+SAY.Flowchart.168.You,,But she is also the person who can cook very delicious food for two in really short time.,但她也能快速做出两人份的饭菜，如果她做饭的话，我就得洗碗，这点也没有疑问。
+SAY.Flowchart.169.You,,"Sakura is going out to play 'The Mafia Game' with a group of her friends tonight, so I will be left alone.",今天她要和一些朋友一起去玩狼人杀，我又得一个人在宿舍呆着。
+SAY.Flowchart.294.You,,I remember she has asked me to join them in the game.,其实她昨天问过我要不要一起去。
+SAY.Flowchart.299.You,,"And I refused, saying I have played enough games in class practice, so I don't want any more.",我拒绝了，说不是很想玩游戏。
+SAY.Flowchart.303.You,,"She accepted that excuse, but only I know the actual main reason: ",不管怎样她相信了这个借口。也不能说是借口吧，我是真不喜欢狼人杀。
+SAY.Flowchart.304.You,,I hate to be together with a group of people I don't know.,不过不想去最大的原因还是不想和一群陌生人呆在一起。
+SAY.Flowchart.305.You,,Also I hate 'The Mafia'——That's only the second reason.,而且我是真的不喜欢玩狼人杀。
+SAY.Flowchart.306.You,,"But this can be better than staying at home alone doing nothing, perhaps, probably, possibly··· ",但一个人在家呆着又能好到哪去呢？
+SAY.Flowchart.725.You,,"After all, my mom always tells me,",我妈一直说，
+SAY.Flowchart.726.You,,"At first there are no friends,",人本来没有朋友，
+SAY.Flowchart.727.You,,"when you contact more, there comes friends.",联系得多了，也就有了朋友。
+SAY.Flowchart.728.You,,Spending a holiday together can improve our friendship.,一起过节可能也让我们从熟人变成朋友。
+MENU.Flowchart.295,,call her,打电话
+MENU.Flowchart.296,,I need to look at other contacts first,我得再看看别的人
+SAY.Flowchart.300.You,,Should I call Sakura to join her game? ,我应该给我室友打电话吗？
+MENU.Flowchart.301,,Yes,是
+MENU.Flowchart.302,,I need to look at other contacts first,我得再看看别的人
+SETTEXT.Flowchart.505,,{$time},{$time}
+SETTEXT.Flowchart.506,,o' clock,o' clock
+SAY.Flowchart.253.,,Sure.,Sure.
+SAY.Flowchart.309.,,"Though I hate that game, I'll try to make myself enjoy it.",我是很讨厌那个游戏，不过我也可以试试再玩一局吧。
+SAY.Flowchart.507.,,……,……
+SAY.Flowchart.522.Sakura,,Hi!,嗨！
+SAY.Flowchart.308.You,,"Hi sakura, I am calling to ask···",嗨！我打电话来是想说……
+SAY.Flowchart.523.*voice*,,"'Hey Sakura, It's your turn, don't do phone calls, we are in a  game!'",‘哎轮到你了，别打电话了，我们这玩儿着呢！’
+SAY.Flowchart.524.Sakura,,'I see!',“我知道了！”
+SAY.Flowchart.525.Sakura,,"Sorry dear, they are asking me to hang up. What are you calling for?",对不起啊亲爱的，他们叫我挂电话。你打电话来是有什么急事吗？
+SAY.Flowchart.526.You,,"No no, nothing. Have fun!",没有没有，你好好玩。
+SAY.Flowchart.529.You,,So···,呃……
+SAY.Flowchart.537.You,,At least I won't have to meet with a bunch of people I don't know.,至少我不用在陌生人前面演戏了。
+SETTEXT.Flowchart.533,,{$time},{$time}
+SETTEXT.Flowchart.534,,o' clock,o' clock
+SAY.Flowchart.530.Sakura,,I'm back!,我回来了！
+SAY.Flowchart.852.Sakura,,Can't believe it's already 11 o'clock.,不敢相信已经十一点了。
+SAY.Flowchart.541.You,,Where were you playing the game? ,你们在哪玩的啊？
+SAY.Flowchart.540.Sakura,,Upstairs. They live in the same building with us.,就在这楼楼上。
+SAY.Flowchart.538.You,,"Were you able to see the moon there? I tried from my window but failed, I hope I can manage to see it on higher floors.",楼上能看见月亮吗？我从窗子啥都看不见，就想有可能高层视野看得更清楚。
+SAY.Flowchart.542.Sakura,,"I can't remember, we were not watching the moon. By the way, did you see police cars driving by?",我不记得了，我们没注意看窗外面，我只知道外面警车一直在响，你有听到吗？
+SAY.Flowchart.543.Sakura,,"We heard that there was a robbery happening nearby, and police are going to go upstairs into our building to search for criminal.",我听说附近有抢劫案，听说警察会上楼敲门一间间调查，好恐怖啊。
+SAY.Flowchart.544.Sakura,,So we ended the game quickly and went home.,所以我们就快点结束游戏各回各家了。
+SAY.Flowchart.546.You,,Will they also knock on our door?,他们也会敲咱们的门吗？
+SAY.Flowchart.547.Sakura,,"Maybe, I don't know.",不知道，可能不会吧。
+SAY.Flowchart.548.Sakura,,"Anyway, I brought mooncakes",对了，我买了月饼，
+SAY.Flowchart.550.Sakura,,You want some?,你想尝尝吗？
+MENU.Flowchart.552,,Sure!,好啊！
+MENU.Flowchart.553,,Thanks but I have already brushed my teeth,谢谢，不过我刚刷过牙了
+SAY.Flowchart.130.You,,Yuyan is my friend here at school.,
+SAY.Flowchart.165.You,,"Her name is hard for people who don't speak Chinese to pronounce, but she insists to use her original name instead of an English name.",
+SAY.Flowchart.344.You,,"I'm also using my real name here, only because it is already easy to pronounce.",
+SAY.Flowchart.345.You,,"I had an English name once. It sounds ··· rather not cool, so I won't use it.",
+SAY.Flowchart.346.You,,"But people are always messing up the tone of my name. It should sound like the word deer in Chinese, but they always pronouce it in the same tone as the word reed.",
+SAY.Flowchart.347.You,,"As it comes to Yuyan's name, the situation is even worse.",
+SAY.Flowchart.348.You,,"Good thing is, we don't really care about this.",
+SAY.Flowchart.349.You,,We became friends just because we come from the same city in China.,
+SAY.Flowchart.350.You,,"If I want to go somewhere, she would be the first person I can think of.",
+SAY.Flowchart.363.You,,My mom always tells me.,
+SAY.Flowchart.364.You,,"There used to be no friends,",
+SAY.Flowchart.365.You,,"when you contact more, there comes friends.",
+SAY.Flowchart.366.You,,Spending a holiday together can improve our friendship.,
+SAY.Flowchart.367.You,,Should I call yuyan to have dinner toghther? ,
+MENU.Flowchart.315,,call her,
+MENU.Flowchart.316,,I need to look at other contacts first,
+SAY.Flowchart.351.You,,Should I call yuyan to have dinner toghther? ,
+MENU.Flowchart.319,,Yes,
+MENU.Flowchart.320,,I need to look at other contacts first,
+SAY.Flowchart.254.,,/*to be continued*/,
+SAY.Flowchart.666.You,,"It's too late. He must have had his own plan, I won't bother him.",太晚了，他应该已经有安排了。我不想打扰。
+SAY.Flowchart.322.You,,"'Hey, no.'",呃，别吧。
+SAY.Flowchart.355.You,,"'No no,'",别了。
+SAY.Flowchart.356.You,,'You don't want to call him. Do you?',你不会是想打电话给他吧。
+SAY.Flowchart.357.You,,'Just DON'T.',别打。
+SAY.Flowchart.358.You,,"After all, we don't know each other very much. We talked only two and a half times, the half one is a three-person conversation, so I will not call it 'a full one'.",我们根本连朋友都不是，加好友也只是因为我们是同学。
+SAY.Flowchart.359.You,,He added me into his contact list just because we are classmates.,没别的了。
+SAY.Flowchart.360.You,,"Nothing more. He would not anser my call, let alone agree to hang out with me.",他应该根本就不会接我电话，更别说什么一起出去玩之类的。
+SAY.Flowchart.368.You,,Calm down. Don't you know that?,停。冷静冷静。想想那句话，别紧张。
+SAY.Flowchart.369.You,,Treat him as human.,把他就当个人。
+SAY.Flowchart.370.You,,It's not strange to hang out with classmates ··· ,和同学一起出去玩也挺常见的……
+SAY.Flowchart.371.You,,Is it?,是吧。
+SAY.Flowchart.372.You,,"NO, it is strange.",不。还是很奇怪。
+SAY.Flowchart.373.You,,He might think I'm crazy and start to keep away from me.,他可能觉得我有病，然后再也不理我了。
+SAY.Flowchart.374.You,,I can't stand if this happens.,这种事情如果发生的话我也不活了！
+MENU.Flowchart.328,,insist to try,坚持要试
+MENU.Flowchart.329,,I'm a coward and need to look at other contacts first,我怂了，看看别的联系人吧
+SAY.Flowchart.331.You,,"Should I talk to him...? Seriously, should I? This sounds weird. ",我应该给他打电话？真的吗？这很奇怪啊。
+MENU.Flowchart.332,,Yes,打
+MENU.Flowchart.333,,"No, no way. Let's look at other contacts.",不，太奇怪了。我再看看别的人
+SAY.Flowchart.255.You,,It's strange. I'll go talk to him after class at most.,真的太奇怪了。我最多下课和他讲讲话。
+SETTEXT.Flowchart.764,,{$time},{$time}
+SETTEXT.Flowchart.765,,o' clock,o' clock
+SAY.Flowchart.671.You,,"Calm down, calm down.",冷静，冷静。
+SAY.Flowchart.672.You,,"All I have to say is,",我只用说，
+SAY.Flowchart.673.You,,"'Hey, would you like to go···'",“嘿，你想不想去……”
+SAY.Flowchart.753.You,,"'Ok, I can do this.'",嗯。我可以做到的。
+SAY.Flowchart.674.You,,"Hey, ",嘿，
+SAY.Flowchart.779.You,,(Er!! Why is my stomach suddenly making noise at this situation. So embarrasing.),（呃！为什么这种时候肚子响了！)
+SAY.Flowchart.679.Wen,,Are you feeling hungry? My friend bought some mooncakes yesterday.,你是不是饿了？我朋友买了月饼昨天，
+SAY.Flowchart.683.Wen,,You can have some if you like.,我带了一点过来，你饿的话可以尝尝。
+SAY.Flowchart.682.You,,Thanks! It's so hard when you have no lunch break between classes.,啊谢谢你！两节课中间没有午休也太反人类了吧。
+SAY.Flowchart.757.Wen,,"That's right. I brought some snacks, that did not solve the problem, but was better than nothing.",对啊！我带了点零食，基本上没什么用，该饿还是饿。
+SAY.Flowchart.755.Wen,,So would you like to go grab some food together?,你想一起吃点东西吗？
+SAY.Flowchart.756.You,,Sure!,当然！
+SETTEXT.Flowchart.819,,{$time},{$time}
+SETTEXT.Flowchart.820,,o' clock,o' clock
+SAY.Flowchart.822.Wen,,They cook great Chinese food right?,我感觉他们中餐做的不错。
+SAY.Flowchart.821.You,,"Yeah, very authentic, especially the pork stew.",是啊，还挺正宗的，尤其是那个红烧肉。
+SAY.Flowchart.827.Wen,,Which way are you going?,你走哪条路？
+SAY.Flowchart.828.You,,Across the street. And you?,我走马路对面。你呢？
+SAY.Flowchart.830.Wen,,I should turn left here.,我沿这边往前走。
+SAY.Flowchart.826.You,,Bye then!,那再见！
+SAY.Flowchart.824.Wen,,See you next week!,下周见啊。
+SETTEXT.Flowchart.767,,{$time},{$time}
+SETTEXT.Flowchart.768,,o' clock,o' clock
+SAY.Flowchart.681.You,,···,……
+SAY.Flowchart.361.You,,Oh finally. It's 10 pm.,好吧。已经十点了。
+SAY.Flowchart.790.You,,I spent the whole day alone.,我整天都在一个人呆着。
+SAY.Flowchart.177.You,,"It's already 10 o'clock at night. I should grab some food from the fridge to the balcony, so I can try to find the moon.",我应该拿点可乐来窗边喝，一边喝一边看看月亮。
+MENU.Flowchart.176,,Open the fridge,打开冰箱
+SAY.Flowchart.179.You,,Let's get some coke···,拿点可乐。
+SAY.Flowchart.180.You,,"Ooohhhhh! See what have we got, mochi!",哇，冰箱里还有麻薯！
+SAY.Flowchart.181.You,,"Mochi is not mooncake, but looks kind of alike——",麻薯这个东西和月饼还挺像，
+SAY.Flowchart.182.You,,"round and soft, just like the moon.",都是圆的，跟月亮也很像。
+SAY.Flowchart.183.You,,(lying down),（躺下）
+SAY.Flowchart.185.You,,I can only see half of the night sky through my balcony window.,我发现从我阳台的窗户只能看见天空的一半。
+SAY.Flowchart.186.You,,"On a normal afternoon, I would really appreciate it already, because each cloud looks the same as each other. I do not have to see all of them.",平时下午我感觉还挺不错的，因为云和云都长得差不多，我也没有直视观察太阳的癖好。
+SAY.Flowchart.187.You,,"But unfortunately, the moon is on the other side of the sky, which I cannot see now.",但也太不巧了吧，月亮好像刚好就在另外一边。
+SETTEXT.Flowchart.215,,{$time},{$time}
+SETTEXT.Flowchart.377,,o' clock,o' clock
+SAY.Flowchart.209.You,,"After a long wait until 3 o'clock, I'm finally seeing some bright cloud floating from the back of a tall building.",都一直等到三点了，还是只能看见那边的高楼后面漏出一点光。
+SAY.Flowchart.213.You,,I know it's hiding there.,月亮可能就在那边吧。
+SAY.Flowchart.210.You,,"It is harder to see the moon in New York, ",在纽约想看到月亮还蛮难的，
+SAY.Flowchart.211.You,,"but I know the moon is always there, reflecting the light into eyes of ones I love, ",都是知道月亮一直都在那儿，把它的光线反射到所有人的眼眸中……
+SAY.Flowchart.212.You,,and also into mine.,当然了，也映入我自己的眼睛中。
+SETTEXT.Flowchart.219,, ,
+SETTEXT.Flowchart.220,, ,
+SETTEXT.Flowchart.456,, ,
+SETTEXT.Flowchart.459,, ,
+SAY.Flowchart.388.Bear,,Oh don't worry. I'm also bored.,没关系，我也很无聊。
+SAY.Flowchart.389.Bear,,I'm at my grandparents'.They are cooking lunch; I am doing nothing. ,我在你外婆家，你外婆他们在做饭，我在玩手机。
+SAY.Flowchart.390.You,,I'm so envious. ,我好嫉妒啊。
+SAY.Flowchart.391.You,,Guess what I ate for dinner? ,你猜猜我晚饭吃的什么东西吧。
+SAY.Flowchart.392.Bear,,Mooncakes?,月饼？
+SAY.Flowchart.393.You,,Instant noodle with an egg.,不是啊，是方便面加蛋！
+SAY.Flowchart.398.Bear,,Gahahaha! You need to see what we had last night.,哈哈哈哈！你看看我昨晚吃的什么。
+SAY.Flowchart.401.Bear,,I'll show you the pictures.,我微信发给你。
+SAY.Flowchart.395.Bear,,Gahahaha! Of course.,啊啊啊啊当然啊。
+SAY.Flowchart.396.Bear,,We had a big dinner last night.,我们昨晚吃的大餐。
+SAY.Flowchart.397.Bear,,Let me show you the pictures.,你看照片哈。
+SAY.Flowchart.415.You,,"Gaaahh! Watch out, it's late night here",别啊啊啊啊啊啊我这大半夜的我好饿
+SAY.Flowchart.432.You,,Your food pictures make me feel hungry.,你发的东西让我好馋啊。
+SAY.Flowchart.433.You,,Let me show you my dinner today.,给你看看我今天的晚饭。
+SAY.Flowchart.418.Bear,,Poor girl···,太惨了……
+SAY.Flowchart.419.Bear,,"Don't worry, I'll eat all the delicious food for you.",没关系，我来替你吃好吃的。
+SAY.Flowchart.420.Bear,,And send you the pictures.,然后把照片发给你。
+SAY.Flowchart.421.You,,Wait···,等等……
+SAY.Flowchart.422.You,,"Ok, If you insist. I can at least look at delicious food behind screen. ",好吧，没事，你想发就发吧。怎么说有得看总比看也没得看强。
+SAY.Flowchart.423.Bear,,"Be careful not to eat too much junk food, or you will gain weight quickly like I did last year.",当心不要一直吃垃圾食品，不然你等着长胖吧。
+SAY.Flowchart.424.Bear,,"Gahahah! Oh wait, lunch is ready, I have to go.",你外婆叫我吃中饭了！我溜了。
+SAY.Flowchart.426.You,,"Well, that's not so hard.",也不是很难聊嘛。
+SAY.Flowchart.428.You,,"Mom always says, ",我妈一直说，
+SAY.Flowchart.429.You,,sisters is a person always there for each other to rely on.,兄弟姐妹是可以一直依靠的，
+SAY.Flowchart.430.You,,I guess she is right,我觉得吧，她说的某种程度来说是对的，
+SAY.Flowchart.431.You,,except for that food-picture part.,就是有一点不大对，
+SAY.Flowchart.438.,,/*You got a message from Big Bear: */,/*收到一条来自大熊的新消息：*/
+SAY.Flowchart.436.You,,No! Stop that!!,别发了！姐！
+SETTEXT.Flowchart.454,, ,
+SETTEXT.Flowchart.455,, ,
+SAY.Flowchart.558.You,,"Sure, yes please.",当然了。
+SAY.Flowchart.555.You,,···,……
+SAY.Flowchart.559.You,,It's sweet.,哇，还挺甜的。
+SAY.Flowchart.560.Sakura,,Yeah. Tasty.,对啊，就很好吃。
+SAY.Flowchart.556.You,,Thanks but I've brushed my teeth,谢谢，我已经刷过牙，就不吃了
+SAY.Flowchart.561.Sakura,,"Ok. I'll leave these on the table. If you want to eat, you can take one.",好吧，我就放桌上，你想吃可以自己拿。
+SAY.Flowchart.567.Sakura,,"Wait, did you hear that? ",等等，刚才的你听到了吗？
+SAY.Flowchart.842.Sakura,,Coming from outside. I think this has something to do with that robbery.,外面的声音。我感觉他们可能是来抓那个抢劫犯的吧。
+SAY.Flowchart.568.You,,Yeah. Tonight is a total mess.,是吧，今天真的好混乱啊。
+SAY.Flowchart.569.Sakura,,I think I'm getting used to these kind of things though.,哪天不混乱啊？我已经开始习惯了。
+SAY.Flowchart.843.Sakura,,HAHA. We are gradually becoming New York citizens in some aspect.,这么说来我已经习惯当纽约人了！哈哈哈！
+SAY.Flowchart.631.You,,"Oh sure, I cooked beef stew. It's delicious.",啊当然啦。我炖了牛肉，还挺香的。
+SAY.Flowchart.639.Mom,,Great! Do you have a picture of it?,不错。有照片吗？
+SAY.Flowchart.635.You,,Not really···I was so hungry.,没有……我太饿了，没来得及拍。
+SAY.Flowchart.641.You,,"Oh wait, I do have when it's still in the pot.",等等，我有在锅里的照片。
+SAY.Flowchart.643.Mom,,Looks Great! You may add some vegetables.,不错。应该加点蔬菜。
+SAY.Flowchart.640.Dad,,"Right, add some green food.",对。加点绿叶菜。
+SAY.Flowchart.636.You,,I'll next time.,好，下次加。
+SAY.Flowchart.634.Mom,,Did you share it with your roommate?,和室友分享了吗？
+SAY.Flowchart.632.Mom,,Instant noodle again?,又吃方便面？
+SAY.Flowchart.633.You,,Easiest and fastest to cook.,方便啊。
+SAY.Flowchart.642.Mom,,Are you and your roommate together?,你和室友在一起吃的吗？
+SAY.Flowchart.647.You,,Not really. She's out to have a party tonight.,也没有啦。她出去参加聚会了。
+SAY.Flowchart.648.Mom,,Why don't you go together? Didn't she asked you?,你怎么不一起去，她没邀请你？
+SAY.Flowchart.649.You,,"Yes she did, but I said I don't want to.",邀请了，是我自己不想去。
+SAY.Flowchart.652.Mom,,Don't be so dissocial.,好吧，你不要太孤僻了。
+SAY.Flowchart.651.You,,"Ok, I won't.",不会的。
+SAY.Flowchart.655.You,,How's grandma?,奶奶在干啥？
+SAY.Flowchart.656.Mom,,She's in the garden collecting eggs.,她在地里收鸡蛋。
+SAY.Flowchart.657.Dad,,Most of our chicken got killed today to prepare food for the holiday.,今天鸡都被杀了做菜了。
+SAY.Flowchart.658.Dad,,Today is the END of chicken.,鸡的末日啊。
+SAY.Flowchart.654.Mom,,"It's Saturday tomorrow, you can celebrate the festival together.",明天是周六，你们可以一起庆祝。
+SAY.Flowchart.653.You,,"Sure, I'll talk to her about it.",好，我会跟她讲。
+SAY.Flowchart.650.Mom,,"Go to sleep then, it's late.",去休息吧，很晚了。
+SAY.Flowchart.659.You,,"Goodnight mom, goodnight dad.",好，晚安爸妈。
+SAY.Flowchart.660.Mom,,Goodnight.,晚安。
+SAY.Flowchart.661.Dad,,Goodnight.,晚安。
+SAY.Flowchart.693.You,,don't know why but I had dinner with Q,不知道为什么不过我和小W一起吃饭了
+SAY.Flowchart.694.D.J.,,Congrats!,祝贺！
+SAY.Flowchart.696.You,,I feel like a fish in his fishing pool,先别急，我感觉自己像他鱼塘里的一条鱼。
+SAY.Flowchart.703.D.J.,,What do you mean?,什么意思？
+SAY.Flowchart.698.D.J.,,"It's ok, you are just being friendly towards each other.",没事的，你们只是在友好相处。
+SAY.Flowchart.699.D.J.,,"Afterall, You don't have to decide right away.",又不是让你现在就交往。
+SAY.Flowchart.697.You,,You're right. I should treat this thing normally,你说得对。我应该平常心。
+SAY.Flowchart.715.You,,don't know why but I had dinner with Q,不知道为什么不过我和小W一起吃饭了
+SAY.Flowchart.758.Liu Yifei,,What?! ,啥？！
+SAY.Flowchart.759.Liu Yifei,,I'm starting to feel envious of you,我又开始嫉妒你了
+SAY.Flowchart.760.Liu Yifei,,"I mean, I'm alone, but you have a friend to spend time with",连你都有朋友了，我怎么还是孤独一人
+SAY.Flowchart.761.Liu Yifei,,Are you showing off? You must be!,你在炫耀吗？？你肯定是
+SAY.Flowchart.762.You,,"No, I mean I can't believe this would happen",没有……我是想不到会发生这种展开
+SAY.Flowchart.769.You,,What if he knows everything and is only playing with my feelings?,万一他啥都知道，只是想逗我好玩怎么办？
+SAY.Flowchart.770.Liu Yifei,,Yeah definitely he is a bad boy. So bad.,嗯，你说得对，我觉得他就是渣男。太坏了。
+SAY.Flowchart.771.You,,Why are you so sure?,怎么就是渣男了？
+SAY.Flowchart.772.Liu Yifei,,Cuz it's what you want to hear,因为你想听到这句话。
+SAY.Flowchart.773.Liu Yifei,,"Anyway, you are definitely in LOVE",哈哈哈哈哈哈哈好吧，不过我觉得你就是喜欢他。
+SAY.Flowchart.774.Liu Yifei,,Be careful don't get hurt HHHHHH,当心不要受伤哈哈哈哈哈哈
+SAY.Flowchart.775.You,,Shut,闭
+SAY.Flowchart.776.You,,Up,嘴
+MENU.Flowchart.705,,send message to DJ,给DJ发信息
+MENU.Flowchart.706,,send message to Liu Yifei,给刘亦菲发信息
+SAY.Flowchart.719.You,,But he's so cute...,但他真的好可爱啊……
+SAY.Flowchart.832.You,,Hope we can get closer.,好想能多点机会接触。
+CHARACTER.Aunt,,Aunt,舅妈
+CHARACTER.Liu Yifei,,Liu Yifei,刘亦菲
+CHARACTER.Mom,,Mom,妈
+CHARACTER.Wen,,Wen,温
+CHARACTER.You,,You,你
+CHARACTER.Character Name,,Character Name,姓名
+CHARACTER.D.J.,,D.J.,D.J.
+CHARACTER.Sakura,,Sakura,Sakura
+CHARACTER.Dad,,Dad,爸
+CHARACTER.Yuyan,,Yuyan,语嫣
+CHARACTER.Bear,,Bear,大熊
+CHARACTER.*voice*,,*voice*,*谜样的声音*
